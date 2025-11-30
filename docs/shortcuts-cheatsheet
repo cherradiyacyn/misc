@@ -1,0 +1,42 @@
+XFCE Custom Keyboard Shortcuts (Left-handed setup)
+==================================================
+(Caps ⇄ Esc, Alt ⇄ AltGr, Layout toggle = Alt + Shift)
+
+⚙️ System & Session
+-------------------
+Print              → Screenshot tool (xfce4-screenshooter)
+Super + ,          → Lock screen (xflock4)
+Super + M          → Logout / Session dialog
+
+🚀 App Launching
+----------------
+Ctrl + Alt + E     → File Manager
+Ctrl + Alt + Esc   → Task Manager
+Ctrl + Alt + F     → App Finder
+Ctrl + Alt + S     → Web Browser
+Ctrl + Alt + T     → Terminal Emulator
+Ctrl + Alt + Z     → Sublime Text
+
+📂 File Navigation (Thunar)
+---------------------------
+Ctrl + Down        → Open Home
+Ctrl + Left        → Back
+Ctrl + Right       → Forward
+Ctrl + Up          → Open Parent Folder
+
+🪟 Window Management (XFWM4)
+----------------------------
+Alt + Tab          → Cycle windows
+Ctrl + Alt + D     → Show desktop
+Ctrl + Alt + Q     → Close window
+Esc                → Cancel / exit window mode
+Super + I          → Tile window down-right
+Super + J          → Tile window left
+Super + K          → Previous workspace
+Super + L          → Next workspace
+Super + O          → Maximize window
+Super + P          → Tile window right
+
+🌐 Keyboard & Layout
+--------------------
+Alt + Shift        → Toggle keyboard layout
